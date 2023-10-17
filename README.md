@@ -1,4 +1,4 @@
-# *Metaverse 5G*
+# *Metaversecoin*
 AMAZING
 
 The Python SDK for Metaverse5G
